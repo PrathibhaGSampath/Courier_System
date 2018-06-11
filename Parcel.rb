@@ -1,5 +1,3 @@
-require 'mysql'
-
 class Parcel
 	
 	def initialize
